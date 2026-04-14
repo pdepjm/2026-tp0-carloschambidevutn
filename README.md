@@ -17,7 +17,7 @@ Estoy estudiando ingenieria en sistemas, porque me empezó a interesar la progra
 
 <div align="center">
 
-<img src="./imagenes/JugandoEnYupanqui.jpeg" width="100%" style="max-width: 450px;">  
+<img src="./imagenes/JugandoEnYupanqui.jpeg" width="100%" style="max-width: 280px;">  
 
 </div>
 
@@ -27,7 +27,7 @@ Tambien soy técnico electrónico, me gusta mucho la electrónica. En secundaria
 
 <div align="center">
 
-<img src="./imagenes/AutoEspia.jpeg" width="100%" style="max-width: 430px;">
+<img src="./imagenes/AutoEspia.jpeg" width="100%" style="max-width: 280px;">
 
 </div>
 
@@ -37,7 +37,7 @@ En ultimo año de secundaria hice una pasantía y capacitación de reparación d
 
 <div align="center">
 
-<img src="./imagenes/fotoSamsung.jpeg" width="100%" style="max-width: 400px;">
+<img src="./imagenes/fotoSamsung.jpeg" width="100%" style="max-width: 280px;">
 
 </div>
 
@@ -47,7 +47,7 @@ Mi anime favorito es One Piece, ya sé que son una banda de capitulos pero vale 
 
 <div align="center">
 
-<img src="./imagenes/fotoLataLuffy.jpeg" width="100%" style="max-width: 400px;">
+<img src="./imagenes/fotoLataLuffy.jpeg" width="100%" style="max-width: 280px;">
 
 </div>
 
@@ -57,7 +57,7 @@ Este año me pase a linux porque ya no tenía espacio con windows, y me encantó
 
 <div align="center">
 
-<img src="./imagenes/i use arch btw.png" width="100%" style="max-width: 900px;">
+<img src="./imagenes/i use arch btw.png" width="100%" style="max-width: 480px;">
 
 </div>
 
